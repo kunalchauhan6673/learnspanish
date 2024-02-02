@@ -1,0 +1,40 @@
+*{
+  text-align: center;
+}
+h1{
+  font-size: 100px;
+}
+img {
+    height: 200px;
+    width: 200px;
+  }
+  
+  .color-title {
+    font-weight: normal;
+    float: left;
+    width: 19%;
+  }
+  
+  #red {
+    
+    color: red;
+  }
+  
+  #blue {
+    
+    color: blue;
+  }
+  
+  #orange {
+    
+    color: orange;
+  }
+  
+  #green {
+    color: green;
+  }
+  
+  #yellow {
+    color: yellow;
+  }
+  
